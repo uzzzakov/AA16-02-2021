@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlifAcademyHomework(16-02-21)/1.0.0": {
+        "runtime": {
+          "AlifAcademyHomework(16-02-21).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlifAcademyHomework(16-02-21)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
